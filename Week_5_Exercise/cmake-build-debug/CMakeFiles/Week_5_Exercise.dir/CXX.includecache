@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Q.B/CLionProjects/Week_5_Exercise/conjunto.cpp
+iostream
+-
+vector
+-
+
+C:/Users/Sebastian Q.B/CLionProjects/Week_5_Exercise/main.cpp
+iostream
+-
+conjunto.cpp
+C:/Users/Sebastian Q.B/CLionProjects/Week_5_Exercise/conjunto.cpp
+string
+C:/Users/Sebastian Q.B/CLionProjects/Week_5_Exercise/string
+
