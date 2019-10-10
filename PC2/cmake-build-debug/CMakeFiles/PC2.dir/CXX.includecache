@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sebastian Q.B/CLionProjects/PC2/examen.cpp
+vector
+-
+string
+-
+fstream
+-
+sstream
+-
+postulante.h
+C:/Users/Sebastian Q.B/CLionProjects/PC2/postulante.h
+iostream
+-
+
+C:/Users/Sebastian Q.B/CLionProjects/PC2/main.cpp
+iostream
+-
+examen.cpp
+C:/Users/Sebastian Q.B/CLionProjects/PC2/examen.cpp
+
+C:/Users/Sebastian Q.B/CLionProjects/PC2/postulante.h
+string
+-
+
+C:/Users/Sebastian Q.B/CLionProjects/PC2/postulanteCiencias.cpp
+postulante.h
+C:/Users/Sebastian Q.B/CLionProjects/PC2/postulante.h
+
+C:/Users/Sebastian Q.B/CLionProjects/PC2/postulanteLetras.cpp
+postulante.h
+C:/Users/Sebastian Q.B/CLionProjects/PC2/postulante.h
+
