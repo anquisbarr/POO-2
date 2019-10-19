@@ -82,6 +82,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Sebastian Q.B/Documents/GitHub/POO-2/Mini-P2/Country.cpp">
+			<Option target="Mini_P2"/>
+		</Unit>
 		<Unit filename="C:/Users/Sebastian Q.B/Documents/GitHub/POO-2/Mini-P2/main.cpp">
 			<Option target="Mini_P2"/>
 		</Unit>
